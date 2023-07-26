@@ -25,7 +25,7 @@ https://github.com/Saransh1650/FilmXplorer/assets/91770163/4bdac1ec-6d2b-4c86-8f
 Quickly find movies, TV shows, or genres using the intuitive search feature. Enter keywords, titles, or actor names for relevant results, making navigation through the extensive database a breeze.
 
 
-<p align="centre">
+<p align="center">
   <img src="https://github.com/Saransh1650/FilmXplorer/assets/91770163/251e32b2-834e-4fd6-8227-be1c8f795891" width="25%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Saransh1650/FilmXplorer/assets/91770163/1a1a390b-d067-48b2-b603-9d9c7f840ba4" width="25%" />
@@ -42,7 +42,7 @@ Discover popular TV shows, seasons, episodes, and web series. Get detailed infor
 
 
 
-<p align="centre">
+<p align="center">
   <img src="https://github.com/Saransh1650/FilmXplorer/assets/91770163/74de05b4-16b1-442a-9a63-b5d9378d4ad1" width="25%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Saransh1650/FilmXplorer/assets/91770163/a47a61ac-024d-4ce2-b71c-f83245328e6b" width="25%" />
@@ -58,7 +58,7 @@ Explore curated movie genres like action, adventure, comedy, drama, horror, roma
 
 
 
-<p align="centre">
+<p align="center">
   <img src="https://github.com/Saransh1650/FilmXplorer/assets/91770163/c5f13bda-33be-4fd0-8903-bad377a575c6" width="25%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Saransh1650/FilmXplorer/assets/91770163/9e486c31-b13f-4233-94aa-30f8c4532310" width="25%" />
